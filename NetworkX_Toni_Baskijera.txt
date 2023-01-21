@@ -1,0 +1,10 @@
+Broj čvorova, N: 50
+Broj veza, K, N: 188
+Prosječni stupanj, <k>: 7.52
+Gustoća mreže, d: 0.15346938775510205
+Prosječna duljina najkraćeg puta, L: 2.1746938775510203
+Dijametar mreže, D: 4
+Koeficijent grupiranja, c: 0.1635982905982906
+Koeficijent asortativnosti, a: 0.05825598690941387
+Broj komponenti: 1
+Hub(s): [('ogc', 16)]

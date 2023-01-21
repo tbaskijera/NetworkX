@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="tam"/>
+<node id="shj"/>
+<node id="ijv"/>
+<node id="nlp"/>
+<node id="swr"/>
+<node id="soz"/>
+<node id="bel"/>
+<node id="uyn"/>
+<node id="ogc"/>
+<node id="rdk"/>
+<node id="yft"/>
+<node id="tnw"/>
+<node id="egw"/>
+<node id="soy"/>
+<node id="phq"/>
+<node id="son"/>
+<node id="gqx"/>
+<node id="cqq"/>
+<node id="wrd"/>
+<node id="wpl"/>
+<node id="eot"/>
+<node id="jwg"/>
+<node id="bcb"/>
+<node id="fub"/>
+<node id="vyv"/>
+<node id="vte"/>
+<node id="bbj"/>
+<node id="dit"/>
+<node id="yfi"/>
+<node id="bdo"/>
+<node id="hjn"/>
+<node id="qsg"/>
+<node id="qgx"/>
+<node id="jbl"/>
+<node id="qta"/>
+<node id="mql"/>
+<node id="ghi"/>
+<node id="jdq"/>
+<node id="vhr"/>
+<node id="cem"/>
+<node id="xjy"/>
+<node id="iil"/>
+<node id="nbz"/>
+<node id="jbi"/>
+<node id="hhb"/>
+<node id="vlg"/>
+<node id="qrs"/>
+<node id="anc"/>
+<node id="hrn"/>
+<node id="xmq"/>
+<edge source="tam" target="vyv">
+  <data key="d0">15</data>
+</edge>
+<edge source="tam" target="cem">
+  <data key="d0">37</data>
+</edge>
+<edge source="tam" target="ijv">
+  <data key="d0">95</data>
+</edge>
+<edge source="tam" target="jwg">
+  <data key="d0">64</data>
+</edge>
+<edge source="tam" target="qsg">
+  <data key="d0">33</data>
+</edge>
+<edge source="tam" target="vte">
+  <data key="d0">35</data>
+</edge>
+<edge source="tam" target="fub">
+  <data key="d0">53</data>
+</edge>
+<edge source="tam" target="jdq">
+  <data key="d0">99</data>
+</edge>
+<edge source="tam" target="yft">
+  <data key="d0">87</data>
+</edge>
+<edge source="tam" target="nlp">
+  <data key="d0">29</data>
+</edge>
+<edge source="shj" target="ogc">
+  <data key="d0">11</data>
+</edge>
+<edge source="shj" target="qgx">
+  <data key="d0">10</data>
+</edge>
+<edge source="shj" target="soy">
+  <data key="d0">28</data>
+</edge>
+<edge source="shj" target="xmq">
+  <data key="d0">14</data>
+</edge>
+<edge source="shj" target="tnw">
+  <data key="d0">18</data>
+</edge>
+<edge source="shj" target="ijv">
+  <data key="d0">40</data>
+</edge>
+<edge source="shj" target="bdo">
+  <data key="d0">95</data>
+</edge>
+<edge source="shj" target="bbj">
+  <data key="d0">52</data>
+</edge>
+<edge source="ijv" target="jbi">
+  <data key="d0">47</data>
+</edge>
+<edge source="ijv" target="dit">
+  <data key="d0">3</data>
+</edge>
+<edge source="ijv" target="wpl">
+  <data key="d0">76</data>
+</edge>
+<edge source="ijv" target="vte">
+  <data key="d0">62</data>
+</edge>
+<edge source="ijv" target="bdo">
+  <data key="d0">88</data>
+</edge>
+<edge source="ijv" target="ogc">
+  <data key="d0">76</data>
+</edge>
+<edge source="ijv" target="hjn">
+  <data key="d0">79</data>
+</edge>
+<edge source="ijv" target="swr">
+  <data key="d0">61</data>
+</edge>
+<edge source="ijv" target="yfi">
+  <data key="d0">9</data>
+</edge>
+<edge source="ijv" target="qgx">
+  <data key="d0">91</data>
+</edge>
+<edge source="ijv" target="jdq">
+  <data key="d0">67</data>
+</edge>
+<edge source="nlp" target="cem">
+  <data key="d0">46</data>
+</edge>
+<edge source="nlp" target="cqq">
+  <data key="d0">86</data>
+</edge>
+<edge source="nlp" target="wpl">
+  <data key="d0">84</data>
+</edge>
+<edge source="nlp" target="uyn">
+  <data key="d0">32</data>
+</edge>
+<edge source="nlp" target="bel">
+  <data key="d0">49</data>
+</edge>
+<edge source="nlp" target="jbl">
+  <data key="d0">10</data>
+</edge>
+<edge source="nlp" target="yfi">
+  <data key="d0">29</data>
+</edge>
+<edge source="swr" target="vyv">
+  <data key="d0">69</data>
+</edge>
+<edge source="swr" target="yft">
+  <data key="d0">79</data>
+</edge>
+<edge source="swr" target="hjn">
+  <data key="d0">3</data>
+</edge>
+<edge source="swr" target="rdk">
+  <data key="d0">88</data>
+</edge>
+<edge source="swr" target="bbj">
+  <data key="d0">49</data>
+</edge>
+<edge source="swr" target="qta">
+  <data key="d0">52</data>
+</edge>
+<edge source="swr" target="wpl">
+  <data key="d0">75</data>
+</edge>
+<edge source="soz" target="jdq">
+  <data key="d0">78</data>
+</edge>
+<edge source="soz" target="bbj">
+  <data key="d0">61</data>
+</edge>
+<edge source="soz" target="bcb">
+  <data key="d0">60</data>
+</edge>
+<edge source="soz" target="qgx">
+  <data key="d0">91</data>
+</edge>
+<edge source="soz" target="hhb">
+  <data key="d0">42</data>
+</edge>
+<edge source="soz" target="vlg">
+  <data key="d0">56</data>
+</edge>
+<edge source="soz" target="wpl">
+  <data key="d0">88</data>
+</edge>
+<edge source="bel" target="mql">
+  <data key="d0">10</data>
+</edge>
+<edge source="bel" target="eot">
+  <data key="d0">49</data>
+</edge>
+<edge source="bel" target="anc">
+  <data key="d0">80</data>
+</edge>
+<edge source="bel" target="bcb">
+  <data key="d0">33</data>
+</edge>
+<edge source="uyn" target="ogc">
+  <data key="d0">60</data>
+</edge>
+<edge source="uyn" target="bbj">
+  <data key="d0">48</data>
+</edge>
+<edge source="uyn" target="ghi">
+  <data key="d0">90</data>
+</edge>
+<edge source="uyn" target="dit">
+  <data key="d0">72</data>
+</edge>
+<edge source="uyn" target="wpl">
+  <data key="d0">28</data>
+</edge>
+<edge source="ogc" target="bdo">
+  <data key="d0">73</data>
+</edge>
+<edge source="ogc" target="eot">
+  <data key="d0">19</data>
+</edge>
+<edge source="ogc" target="gqx">
+  <data key="d0">7</data>
+</edge>
+<edge source="ogc" target="vte">
+  <data key="d0">80</data>
+</edge>
+<edge source="ogc" target="cem">
+  <data key="d0">68</data>
+</edge>
+<edge source="ogc" target="ogc">
+  <data key="d0">84</data>
+</edge>
+<edge source="ogc" target="wrd">
+  <data key="d0">23</data>
+</edge>
+<edge source="ogc" target="nbz">
+  <data key="d0">31</data>
+</edge>
+<edge source="ogc" target="xjy">
+  <data key="d0">60</data>
+</edge>
+<edge source="ogc" target="jdq">
+  <data key="d0">17</data>
+</edge>
+<edge source="ogc" target="yfi">
+  <data key="d0">92</data>
+</edge>
+<edge source="ogc" target="xmq">
+  <data key="d0">79</data>
+</edge>
+<edge source="rdk" target="hjn">
+  <data key="d0">65</data>
+</edge>
+<edge source="rdk" target="qrs">
+  <data key="d0">42</data>
+</edge>
+<edge source="rdk" target="tnw">
+  <data key="d0">31</data>
+</edge>
+<edge source="rdk" target="jbi">
+  <data key="d0">68</data>
+</edge>
+<edge source="rdk" target="yfi">
+  <data key="d0">39</data>
+</edge>
+<edge source="rdk" target="fub">
+  <data key="d0">58</data>
+</edge>
+<edge source="rdk" target="vyv">
+  <data key="d0">99</data>
+</edge>
+<edge source="yft" target="wpl">
+  <data key="d0">34</data>
+</edge>
+<edge source="yft" target="yfi">
+  <data key="d0">47</data>
+</edge>
+<edge source="tnw" target="jwg">
+  <data key="d0">76</data>
+</edge>
+<edge source="tnw" target="ghi">
+  <data key="d0">13</data>
+</edge>
+<edge source="tnw" target="vlg">
+  <data key="d0">95</data>
+</edge>
+<edge source="tnw" target="tnw">
+  <data key="d0">88</data>
+</edge>
+<edge source="tnw" target="phq">
+  <data key="d0">78</data>
+</edge>
+<edge source="egw" target="bbj">
+  <data key="d0">42</data>
+</edge>
+<edge source="egw" target="xmq">
+  <data key="d0">11</data>
+</edge>
+<edge source="egw" target="hjn">
+  <data key="d0">60</data>
+</edge>
+<edge source="egw" target="wpl">
+  <data key="d0">24</data>
+</edge>
+<edge source="egw" target="eot">
+  <data key="d0">30</data>
+</edge>
+<edge source="soy" target="xjy">
+  <data key="d0">52</data>
+</edge>
+<edge source="soy" target="soy">
+  <data key="d0">34</data>
+</edge>
+<edge source="soy" target="cqq">
+  <data key="d0">20</data>
+</edge>
+<edge source="soy" target="jdq">
+  <data key="d0">10</data>
+</edge>
+<edge source="soy" target="qsg">
+  <data key="d0">73</data>
+</edge>
+<edge source="phq" target="qgx">
+  <data key="d0">40</data>
+</edge>
+<edge source="phq" target="qrs">
+  <data key="d0">64</data>
+</edge>
+<edge source="phq" target="mql">
+  <data key="d0">48</data>
+</edge>
+<edge source="phq" target="vlg">
+  <data key="d0">23</data>
+</edge>
+<edge source="son" target="ghi">
+  <data key="d0">83</data>
+</edge>
+<edge source="son" target="vlg">
+  <data key="d0">6</data>
+</edge>
+<edge source="son" target="jbi">
+  <data key="d0">79</data>
+</edge>
+<edge source="son" target="cem">
+  <data key="d0">32</data>
+</edge>
+<edge source="gqx" target="vhr">
+  <data key="d0">64</data>
+</edge>
+<edge source="gqx" target="anc">
+  <data key="d0">27</data>
+</edge>
+<edge source="gqx" target="mql">
+  <data key="d0">95</data>
+</edge>
+<edge source="cqq" target="xmq">
+  <data key="d0">17</data>
+</edge>
+<edge source="cqq" target="vlg">
+  <data key="d0">80</data>
+</edge>
+<edge source="cqq" target="wpl">
+  <data key="d0">82</data>
+</edge>
+<edge source="wrd" target="fub">
+  <data key="d0">58</data>
+</edge>
+<edge source="wrd" target="anc">
+  <data key="d0">72</data>
+</edge>
+<edge source="wrd" target="xjy">
+  <data key="d0">66</data>
+</edge>
+<edge source="wrd" target="jwg">
+  <data key="d0">53</data>
+</edge>
+<edge source="wrd" target="hrn">
+  <data key="d0">79</data>
+</edge>
+<edge source="wrd" target="cem">
+  <data key="d0">64</data>
+</edge>
+<edge source="wpl" target="vte">
+  <data key="d0">22</data>
+</edge>
+<edge source="eot" target="fub">
+  <data key="d0">54</data>
+</edge>
+<edge source="eot" target="hhb">
+  <data key="d0">86</data>
+</edge>
+<edge source="eot" target="hrn">
+  <data key="d0">77</data>
+</edge>
+<edge source="eot" target="xmq">
+  <data key="d0">24</data>
+</edge>
+<edge source="eot" target="vlg">
+  <data key="d0">53</data>
+</edge>
+<edge source="jwg" target="hjn">
+  <data key="d0">87</data>
+</edge>
+<edge source="jwg" target="vlg">
+  <data key="d0">66</data>
+</edge>
+<edge source="jwg" target="jbl">
+  <data key="d0">5</data>
+</edge>
+<edge source="jwg" target="xjy">
+  <data key="d0">33</data>
+</edge>
+<edge source="jwg" target="mql">
+  <data key="d0">73</data>
+</edge>
+<edge source="jwg" target="dit">
+  <data key="d0">9</data>
+</edge>
+<edge source="bcb" target="vte">
+  <data key="d0">54</data>
+</edge>
+<edge source="bcb" target="jbi">
+  <data key="d0">24</data>
+</edge>
+<edge source="bcb" target="qta">
+  <data key="d0">41</data>
+</edge>
+<edge source="bcb" target="xmq">
+  <data key="d0">6</data>
+</edge>
+<edge source="bcb" target="hjn">
+  <data key="d0">46</data>
+</edge>
+<edge source="bcb" target="ghi">
+  <data key="d0">73</data>
+</edge>
+<edge source="bcb" target="hhb">
+  <data key="d0">5</data>
+</edge>
+<edge source="bcb" target="vyv">
+  <data key="d0">72</data>
+</edge>
+<edge source="fub" target="jdq">
+  <data key="d0">14</data>
+</edge>
+<edge source="fub" target="hrn">
+  <data key="d0">25</data>
+</edge>
+<edge source="fub" target="anc">
+  <data key="d0">80</data>
+</edge>
+<edge source="fub" target="vyv">
+  <data key="d0">3</data>
+</edge>
+<edge source="vyv" target="qsg">
+  <data key="d0">53</data>
+</edge>
+<edge source="vyv" target="mql">
+  <data key="d0">84</data>
+</edge>
+<edge source="vyv" target="hhb">
+  <data key="d0">93</data>
+</edge>
+<edge source="vyv" target="hjn">
+  <data key="d0">62</data>
+</edge>
+<edge source="vyv" target="vyv">
+  <data key="d0">97</data>
+</edge>
+<edge source="vyv" target="anc">
+  <data key="d0">29</data>
+</edge>
+<edge source="vyv" target="xjy">
+  <data key="d0">47</data>
+</edge>
+<edge source="vyv" target="hrn">
+  <data key="d0">29</data>
+</edge>
+<edge source="vyv" target="nbz">
+  <data key="d0">59</data>
+</edge>
+<edge source="vte" target="xmq">
+  <data key="d0">40</data>
+</edge>
+<edge source="vte" target="qta">
+  <data key="d0">87</data>
+</edge>
+<edge source="dit" target="hrn">
+  <data key="d0">40</data>
+</edge>
+<edge source="dit" target="qta">
+  <data key="d0">65</data>
+</edge>
+<edge source="yfi" target="qgx">
+  <data key="d0">75</data>
+</edge>
+<edge source="yfi" target="jdq">
+  <data key="d0">56</data>
+</edge>
+<edge source="yfi" target="hjn">
+  <data key="d0">88</data>
+</edge>
+<edge source="bdo" target="qgx">
+  <data key="d0">34</data>
+</edge>
+<edge source="bdo" target="vhr">
+  <data key="d0">65</data>
+</edge>
+<edge source="bdo" target="xjy">
+  <data key="d0">88</data>
+</edge>
+<edge source="hjn" target="nbz">
+  <data key="d0">70</data>
+</edge>
+<edge source="hjn" target="xjy">
+  <data key="d0">55</data>
+</edge>
+<edge source="hjn" target="vlg">
+  <data key="d0">93</data>
+</edge>
+<edge source="hjn" target="cem">
+  <data key="d0">62</data>
+</edge>
+<edge source="hjn" target="hhb">
+  <data key="d0">41</data>
+</edge>
+<edge source="hjn" target="mql">
+  <data key="d0">95</data>
+</edge>
+<edge source="qsg" target="qrs">
+  <data key="d0">67</data>
+</edge>
+<edge source="qsg" target="hhb">
+  <data key="d0">67</data>
+</edge>
+<edge source="qsg" target="cem">
+  <data key="d0">73</data>
+</edge>
+<edge source="qgx" target="vhr">
+  <data key="d0">14</data>
+</edge>
+<edge source="qgx" target="hhb">
+  <data key="d0">80</data>
+</edge>
+<edge source="qta" target="anc">
+  <data key="d0">50</data>
+</edge>
+<edge source="qta" target="hrn">
+  <data key="d0">1</data>
+</edge>
+<edge source="mql" target="nbz">
+  <data key="d0">75</data>
+</edge>
+<edge source="mql" target="qrs">
+  <data key="d0">58</data>
+</edge>
+<edge source="mql" target="vlg">
+  <data key="d0">11</data>
+</edge>
+<edge source="mql" target="jbi">
+  <data key="d0">45</data>
+</edge>
+<edge source="ghi" target="ghi">
+  <data key="d0">27</data>
+</edge>
+<edge source="ghi" target="hrn">
+  <data key="d0">17</data>
+</edge>
+<edge source="ghi" target="iil">
+  <data key="d0">32</data>
+</edge>
+<edge source="jdq" target="jbi">
+  <data key="d0">51</data>
+</edge>
+<edge source="vhr" target="hrn">
+  <data key="d0">48</data>
+</edge>
+<edge source="vhr" target="jbi">
+  <data key="d0">35</data>
+</edge>
+<edge source="cem" target="hhb">
+  <data key="d0">17</data>
+</edge>
+<edge source="cem" target="xjy">
+  <data key="d0">50</data>
+</edge>
+<edge source="xjy" target="nbz">
+  <data key="d0">88</data>
+</edge>
+<edge source="nbz" target="nbz">
+  <data key="d0">4</data>
+</edge>
+<edge source="nbz" target="qrs">
+  <data key="d0">15</data>
+</edge>
+<edge source="nbz" target="vlg">
+  <data key="d0">53</data>
+</edge>
+<edge source="jbi" target="jbi">
+  <data key="d0">84</data>
+</edge>
+</graph></graphml>
